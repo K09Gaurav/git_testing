@@ -1,4 +1,4 @@
 # git_testing
 This is my first repo
 <br>
-I am Kumar Gaurav lmao😊
+I am Kumar Gaurav lmao noob😊
