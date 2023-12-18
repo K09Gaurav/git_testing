@@ -8,4 +8,4 @@ This repo will be used for git practise and
 <br>
 1.main
 <br>
-2.python (idek python)
+okay no i am not using python anymore
