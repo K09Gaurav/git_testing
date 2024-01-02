@@ -1,11 +1,6 @@
 # Hello There 
 This is my first repo
 <br>
-I am Kumar Gaurav lmao noob😊
+I am Kumar Gaurav😊
 <br>
-This repo will be used for git practise and 
-2 branches will be used :-
-<br>
-1.main
-<br>
-okay no i am not using python anymore
+This repo will be used for git practises
